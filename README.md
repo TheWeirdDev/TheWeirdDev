@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm TheWeirdDev
 
 - 🔭 I’m currently working on multiple unfinished projects
-- 🌱 I’m currently learning Python and TypeScript
+- 🌱 I’m currently learning Python, TypeScript and Rust
 - 📫 How to reach me: alireza6677@gmail.com
 
 <!--![Github stats](https://github-readme-stats.vercel.app/api?username=TheWeirdDev&show_icons=true&theme=dracula)
